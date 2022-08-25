@@ -32,7 +32,7 @@ Sub AllStocksAnalysis
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Sub%20AllStocksAnalysis().png)
 Refactored
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Sub%20AllStocksAnalysisRefactored()1.png)
-![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Sub%20AllStocksAnalysisRefactored()2.png)
+
 
 ## Summary
 ### Advantage & Disadvantage
