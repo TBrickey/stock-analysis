@@ -18,7 +18,7 @@ The green stocks performed substantially better in 2017 compared to 2018. Format
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Screenshot%20All%20Stocks%20(2018).png)
 
 ### VBA Script Run Time
-The execution times from the refactored script was 0.54 seconds faster than the original script. It would be really interesting how much time that's saved to return thousands of stocks over 10 years.
+The execution times from the refactored script was 0.54 seconds faster than the original script. It would be really interesting to calculate how much time is saved returning thousands of stocks over 5 or 10 years.
 
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20AllStocksAnalysis.png)
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
