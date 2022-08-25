@@ -12,7 +12,7 @@ We’ll refactor Steve’s workbook to loop through all the data one time in ord
 ## Results
 
 ### Performance
-Overall, the green stocks preformed worse in 2018 compared to 2017.
+The green stocks performed substantially better in 2017 compared to 2018. Formatting the positive returns in green and negative in red really helps illustrate that. 
 
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Screenshot%20All%20Stocks%20(2017).png)
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Screenshot%20All%20Stocks%20(2018).png)
