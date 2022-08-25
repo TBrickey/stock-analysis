@@ -28,11 +28,11 @@ The execution times from the refactored script was 0.54 seconds faster than the 
 ### VBA Original versus Refactored
 The following screenshots show the difference between original Sub AllStocksAnalysis versus the Refactored Sub that enabled the run time to be reduced.
 
-** ** Sub AllStocksAnalysis
+**Sub AllStocksAnalysis**
 
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Sub%20AllStocksAnalysis().png)
 
-** ** Refactored
+**Refactored**
 
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Sub%20AllStocksAnalysisRefactored()1.png)
 ![TBrickey](https://github.com/TBrickey/stock-analysis/blob/main/Resources/Sub%20AllStocksAnalysisRefactored()2.png)
