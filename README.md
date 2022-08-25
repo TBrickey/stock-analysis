@@ -3,7 +3,7 @@ Module 2 VBA
 ## Overview of Project
 ### Background
 
-With our help, Steve can analyze 12 green energy stocks, including DQ, to help his parents and new clients diversify their portfolios. Steve uses VBA and macros to perform complex logic and calculations to reduce errors, increase efficiency and speed at the click of a button. Steve now wants to expand his analysis to include the entire stock market over the last few years.
+With our help, Steve can analyze 12 green energy stocks, including DQ, to help his parents and new clients diversify their portfolios. Steve uses VBA and macros to perform complex logic and calculations to reduce errors, increase efficiency and speed at the click of a button. He now wants to expand his analysis to include the entire stock market over the last few years.
 
 ### Purpose
 
